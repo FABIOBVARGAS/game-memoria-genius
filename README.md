@@ -16,7 +16,7 @@ Curso do Bootcamp Órbit Web Games Developer da [Digital Innovation One](https:/
 Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
 
-<p align="center"><img src="./src/assets/projeto.gif" title="Jogo da memoria - tipo Gênius - DIO"></p>
+
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
